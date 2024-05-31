@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fab00dc-96a2-463d-a725-378a89df2d7e" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23005/practice/chap3/AnimalJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23005/practice/chap3/CalcJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23005/practice/chap3/HelloByJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23005/practice/chap3/JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/it_college/std/s23005/practice/chap3/UserJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/AddCalculationExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/AddCalculationExecutorDelegate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/CalculationExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/CommonCalculationExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/DelegatePerson.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/DelegateWithMessage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/Num.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/Student.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/User12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/User2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/User3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/User4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/main10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/main7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/main8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap2/main9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/CompanyConstants.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/DogKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/Hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/HelloByKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/sec1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/sec2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/sec3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/jp/ac/it_college/std/s23005/practice/chap3/sec4.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Practice" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;itc-s23005&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itc-s23005/Practice.s23005.git&quot;,
+    &quot;accountId&quot;: &quot;ca3afe3c-d3f8-46df-9bc4-2e2fddafdc40&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2h5GF1wn49ukM9tE61uw5vkEWUO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Practice [:JavaMain.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Practice のビルド.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sec1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sec2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Sec4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/s23005/IdeaProjects/Practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;モジュール&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/home/s23005/.gradle&quot;
+    ]
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle タスク" flag="true" />
+      <visibility group="Grunt" flag="true" />
+      <visibility group="Gulp" flag="true" />
+      <visibility group="HTTP リクエスト" flag="true" />
+      <visibility group="Maven ゴール" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="npm" flag="true" />
+      <visibility group="yarn" flag="true" />
+      <visibility group="実行構成" flag="true" />
+      <visibility group="最近のプロジェクト" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Kotlin.Sec4Kt">
+    <configuration name="JavaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23005.practice.chap3.JavaMain" />
+      <module name="Practice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jp.ac.it_college.std.s23005.practice.chap3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23005.practice.chap2.Main10Kt" />
+      <module name="Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sec1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23005.practice.chap3.Sec1Kt" />
+      <module name="Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sec2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23005.practice.chap3.Sec2Kt" />
+      <module name="Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sec4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.it_college.std.s23005.practice.chap3.Sec4Kt" />
+      <module name="Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Sec4Kt" />
+        <item itemvalue="Kotlin.Sec2Kt" />
+        <item itemvalue="Kotlin.Sec1Kt" />
+        <item itemvalue="アプリケーション.JavaMain" />
+        <item itemvalue="Kotlin.Main10Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="2fab00dc-96a2-463d-a725-378a89df2d7e" name="変更" comment="" />
+      <created>1716876417468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716876417468</updated>
+      <workItem from="1716876418463" duration="33837000" />
+      <workItem from="1717131695056" duration="17000" />
+      <workItem from="1717132009686" duration="40000" />
+      <workItem from="1717132468052" duration="396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
